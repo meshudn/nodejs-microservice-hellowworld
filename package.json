@@ -1,0 +1,13 @@
+{
+  "name": "docker_app_demo",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Meshu Deb Nath <meshudebnath@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
